@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning computer science @ Penn State University (currently a sophomore as of Fall 2023).
 - 💞️ I’m looking to collaborate on Discord bot or game development.
 - 📫 How to reach me:
-    - Discord: yoshicake
     - X: YoshicakeXD
     - LinkedIn: grantallencs
 
