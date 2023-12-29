@@ -5,6 +5,7 @@
 - 📫 How to reach me:
     - Discord: yoshicake
     - LinkedIn: grantallencs
+    - Email: grant.allen0268@gmail.com
 
 <!---
 Yoshicake/Yoshicake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
