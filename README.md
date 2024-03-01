@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yoshicake
 - 👀 I’m interested in Fortnite, League of Legends, Marvel, DC, tech news, smartphones, coding on Discord.
-- 🌱 I’m currently learning computer science @ Penn State University (currently a sophomore as of Fall 2023).
+- 🌱 I’m currently learning computer science @ Penn State University (expected graduation: December 2025 or May 2026).
 - 💞️ I’m looking to collaborate on Discord bot or game development.
 - 📫 How to reach me:
     - Discord: yoshicake
