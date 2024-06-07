@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Yoshicake
-- 👀 I’m interested in Fortnite, Nintendo, Marvel, DC, tech news, smartphones, coding on Discord.
+- 👋 Hi, I’m Grant Allen, also known as @Yoshicake
+- 👀 I’m interested in tech news, smartphones, coding on Discord.
 - 🌱 I’m currently learning computer science @ Penn State University (expected graduation: December 2025 or May 2026).
-- 💞️ I’m looking to collaborate on a Discord bot or game development.
+- 💞️ I’m looking to collaborate on a anything.
 - 📫 How to reach me:
     - Discord: yoshicake
     - LinkedIn: grantallencs
